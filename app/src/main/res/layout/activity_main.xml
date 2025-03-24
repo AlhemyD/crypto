@@ -6,12 +6,6 @@
     android:layout_height="match_parent"
     android:id="@+id/rootView"
     tools:context=".MainActivity">
-    <menu>
-        <item id="i_new">новое</item>
-        <item id="i_list">список</item>
-        <item id="i_search">найти</item>
-        <item id="i_quit">выход</item>
-    </menu>
 
     <TextView
         android:id="@+id/labelUsdRubRate"

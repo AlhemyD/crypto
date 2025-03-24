@@ -5,5 +5,5 @@
     <string name="target_rate_empty">Target rate is empty</string>
     <string name="current_rate_empty">Current rate is empty</string>
     <string name="subscribe">subscribe</string>
-    <string name="target_rate">Target rate</string>
+    <string name="target_rate">Target rate change:</string>
 </resources>

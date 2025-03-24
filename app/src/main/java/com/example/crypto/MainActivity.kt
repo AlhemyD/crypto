@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         findViewById<Button>(R.id.btnSubscribeToRate).setOnClickListener {
-            Log.e("MainActivity: ", "Setting subscribe listener")
+            Log.d("MainActivity: ", "Setting subscribe listener")
             val targetRate = textTargetRate.text.toString()
             val startRate = viewModel.usdRate.value
 
